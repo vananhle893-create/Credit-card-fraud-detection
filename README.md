@@ -120,7 +120,7 @@ python src/extra_analysis.py --quick    # chạy thử nhanh, số liệu KHÔNG
 - Còn 1.081 dòng trùng lặp trong dữ liệu gốc.
 - Ứng dụng demo chỉ cho chỉnh 5 thuộc tính (V17, V14, V12, V11, V4); các thuộc tính còn lại đặt bằng 0.
 
-Chi tiết xem trong báo cáo `docs/Bao_cao_cuoi_ky_Du_doan_giao_dich_gian_lan.docx`.
+Chi tiết xem trong báo cáo 
 
 ---
 
