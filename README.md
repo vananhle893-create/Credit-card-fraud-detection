@@ -134,6 +134,6 @@ Chi tiết xem trong báo cáo
 ---
 
 ## GHI CHÚ
-
+- Xem hướng dẫn chạy chi tiết tại [HUONG_DAN_DEMO.md](HUONG_DAN_DEMO.md)
 - Không đưa file `.env`, API key hoặc mật khẩu lên Git.
 - `data/creditcard.csv` nặng hơn 100 MB nên bị `.gitignore` chặn; dữ liệu được tải tự động khi chạy `run_pipeline.py`.
