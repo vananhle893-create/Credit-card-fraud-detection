@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data files (GitHub size limit is 100MB, original creditcard.csv is 143.8MB!)
+data/creditcard.csv
+
+# Saved models (những tệp mô hình nhỏ này cần được đưa lên để web app chạy được ngay)
+# models/
+# plots/ (cần đưa lên GitHub vì ứng dụng Streamlit hiển thị các biểu đồ này)
+
+# IDE files
+.vscode/
+.idea/
+.gemini/
